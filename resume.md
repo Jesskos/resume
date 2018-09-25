@@ -1,18 +1,28 @@
 # Jessica Koscheka
-## San Francisco, CA | jesskos@gmail.com | 516‐749‐0527 | linkedin.com/in/jessica‐koscheka | github.com/jesskos
-TECHNOLOGIES
+### San Francisco, CA | jesskos@gmail.com | 516‐749‐0527 | linkedin.com/in/jessica‐koscheka | github.com/jesskos
+### TECHNOLOGIES
 Languages | Python, Ruby, JavaScript, HTML, CSS, SQL
 Frameworks & Libraries | Flask, jQuery, Bootstrap, Jinja, SQLAlchemy Database/Industry Tools | PostgreSQL, Git, GitHub, Command Line Tools/Software | Mac OS, Linux
-PROJECT
+
+### PROJECT
 Project Name: Nutrify
 An app for users with dietary restrictions to easily find recipes that meet their needs, and track nutritional goals Tech stack: Python, Flask, Jinja, SQLAlchemy, JavaScript (AJAX, JSON, Chart.js, jQuery), HTML, CSS, Bootstrap API Integration: Edamam | Github: github.com/jesskos/nutrify
-      EDUCA TION
-Hackbright Academy
+
+### EDUCATION 
+#####  Hackbright Academy
 Software Engineering Program
 Accelerated, 12‐week, software engineering program for women
- San Francisco, CA | June 2018
-New York, NY | May 2012 Completed coursework and an 11‐month internship to obtain credentials to practice as a Registered Dietitian
-University of Delaware Newark, DE | June 2008 Bachelor of Arts, Double Major in Biological Sciences and Foreign Languages and Literatures (Spanish Language) Minor in Ancient Greek and Roman Studies, Recipient of Honors Degree
+San Francisco, CA | June 2018
+
+##### Columbia University 
+Master of Science, Nutrition and Public Health
+May 2012 Completed coursework and an 11‐month internship to obtain credentials to practice as a Registered Dietitian
+New York, NY | May 2012
+
+##### University of Delaware
+Bachelor of Arts, Double Major in Biological Sciences and Foreign Languages and Literatures (Spanish Language) Minor in Ancient Greek and Roman Studies, Recipient of Honors Degree
+Newark, DE | June 2008
+
 PROFESSIONAL EXPERIENCE
 Clinical Dietitian, On Lok Lifeways San Francisco, CA | October 2016 to March 2018
 ● Served as primary dietitian at a PACE center, working with the frail elderly & their families, demonstrating sensitivity to patients’ goals of cares, desires, and quality of life in a culturally diverse population
