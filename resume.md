@@ -1,5 +1,5 @@
-Jessica Koscheka
-San Francisco, CA | jesskos@gmail.com | 516‐749‐0527 | linkedin.com/in/jessica‐koscheka | github.com/jesskos
+# Jessica Koscheka
+## San Francisco, CA | jesskos@gmail.com | 516‐749‐0527 | linkedin.com/in/jessica‐koscheka | github.com/jesskos
 TECHNOLOGIES
 Languages | Python, Ruby, JavaScript, HTML, CSS, SQL
 Frameworks & Libraries | Flask, jQuery, Bootstrap, Jinja, SQLAlchemy Database/Industry Tools | PostgreSQL, Git, GitHub, Command Line Tools/Software | Mac OS, Linux
