@@ -5,7 +5,7 @@ Languages | Python, Ruby, JavaScript, HTML, CSS, SQL
 Frameworks & Libraries | Flask, jQuery, Bootstrap, Jinja, SQLAlchemy Database/Industry Tools | PostgreSQL, Git, GitHub, Command Line Tools/Software | Mac OS, Linux
 
 ### PROJECT
-Project Name: Nutrify
+###### Project Name: Nutrify
 An app for users with dietary restrictions to easily find recipes that meet their needs, and track nutritional goals Tech stack: Python, Flask, Jinja, SQLAlchemy, JavaScript (AJAX, JSON, Chart.js, jQuery), HTML, CSS, Bootstrap API Integration: Edamam | Github: github.com/jesskos/nutrify
 
 ### EDUCATION 
